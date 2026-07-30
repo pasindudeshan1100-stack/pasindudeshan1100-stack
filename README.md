@@ -44,8 +44,54 @@ As a Software Engineering student, I have worked on academic and personal projec
 
 I enjoy creating user-friendly applications, solving programming problems, and exploring new technologies.
 
+## 🚀 Skills & Progress
 
----
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<h3>💻 Frontend Development</h3>
+
+<b>HTML</b><br>
+██████████████████░░ 90%<br><br>
+
+<b>CSS</b><br>
+████████████████░░░░ 80%<br><br>
+
+<b>Bootstrap</b><br>
+███████████████░░░░░ 75%<br><br>
+
+<b>JavaScript</b><br>
+████████████░░░░░░░░ 65%
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>⚙️ Backend & Programming</h3>
+
+<b>Java</b><br>
+████████████████░░░░ 80%<br><br>
+
+<b>SQL / Database</b><br>
+███████████████░░░░░ 75%<br><br>
+
+<b>Node.js</b><br>
+██████████░░░░░░░░░░ 50%<br><br>
+
+<b>Git & GitHub</b><br>
+███████████████░░░░░ 75%
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 ## 🏆 GitHub Trophy
 

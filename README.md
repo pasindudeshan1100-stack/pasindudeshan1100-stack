@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4fc79,100:96e6a1&height=230&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+</p>
 <h1 align="center">
   👋 Hi, I'm Pasindu Deshan
 </h1>

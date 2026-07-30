@@ -29,7 +29,6 @@
 - Database Management (SQL) 🗄️
 - Software Engineering Concepts ⚙️
 
-
 ---
 
 ## 🚀 My Experience
@@ -47,46 +46,48 @@ As a Software Engineering student, I have worked on academic and personal projec
 
 I enjoy creating user-friendly applications, solving programming problems, and exploring new technologies.
 
+---
+
 ## 🚀 Skills & Progress
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="50%">
+<td width="48%" valign="top">
 
-<h3>💻 Frontend Development</h3>
+<h3 align="center">💻 Frontend Development</h3>
 
-<b>HTML</b><br>
-██████████████████░░ 90%<br><br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
 
-<b>CSS</b><br>
-████████████████░░░░ 80%<br><br>
-
-<b>Bootstrap</b><br>
-███████████████░░░░░ 75%<br><br>
-
-<b>JavaScript</b><br>
-████████████░░░░░░░░ 65%
+| Skill | Level |
+|:------|:------:|
+| 🧡 HTML | █████████░ 90% |
+| 💙 CSS | ████████░░ 80% |
+| 💜 Bootstrap | ███████░░░ 75% |
+| 💛 JavaScript | ██████░░░░ 65% |
 
 </td>
 
-<td align="center" width="50%">
+<td width="4%"></td>
 
-<h3>⚙️ Backend & Programming</h3>
+<td width="48%" valign="top">
 
-<b>Java</b><br>
-████████████████░░░░ 80%<br><br>
+<h3 align="center">⚙️ Backend & Programming</h3>
 
-<b>SQL / Database</b><br>
-███████████████░░░░░ 75%<br><br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,nodejs,mysql,git,github" />
+</p>
 
-<b>Node.js</b><br>
-██████████░░░░░░░░░░ 50%<br><br>
-
-<b>Git & GitHub</b><br>
-███████████████░░░░░ 75%
+| Skill | Level |
+|:------|:------:|
+| ☕ Java | ████████░░ 80% |
+| 🗄️ SQL / Database | ███████░░░ 75% |
+| 💚 Node.js | █████░░░░░ 50% |
+| 🐙 Git & GitHub | ███████░░░ 75% |
 
 </td>
 
@@ -95,6 +96,20 @@ I enjoy creating user-friendly applications, solving programming problems, and e
 
 </div>
 
+---
+
+## 📊 Development Level
+
+<div align="center">
+
+| Category | Progress |
+|----------|:--------:|
+| 🎨 Frontend | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
+| ⚙️ Backend | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
+| 🗄️ Database | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
+| 🔧 Tools | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
+
+</div>
 
 ---
 

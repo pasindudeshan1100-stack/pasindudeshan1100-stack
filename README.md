@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Pasindu Deshan
+  👋 Hi, I'm Pasindu Deshan
 </h1>
 
 <h3 align="center">
@@ -8,9 +8,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pasindudeshan1100-stack&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=pasindudeshan1100-stack&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=19&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pasindu+Deshan;Software+Engineering+Student+from+Sri+Lanka;Passionate+about+Web+Development%2C+Java+%26+Software+Engineering" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -93,13 +96,6 @@ I enjoy creating user-friendly applications, solving programming problems, and e
 </div>
 
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_e4eKKo1HLD_bXvuPV9OHllJm1Rfula2qsXPBQJ88w&s=10"/>
-</p>
-
-
 ---
 
 ## 🔗 Connect With Me
@@ -156,7 +152,13 @@ I enjoy creating user-friendly applications, solving programming problems, and e
 
 
 ---
+## 📊 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindudeshan1100-stack&theme=react-dark&hide_border=true" />
+</p>
+<h3 align="center">
 
+---
 ## ⚡ Fun Fact
 
 💡 I enjoy solving coding challenges, learning new technologies, and creating creative software solutions.
@@ -169,3 +171,5 @@ I enjoy creating user-friendly applications, solving programming problems, and e
 ✨ "Code. Learn. Build. Improve." 🚀
 
 </h3>
+
+

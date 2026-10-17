@@ -176,6 +176,12 @@ I enjoy creating user-friendly applications, solving programming problems, and e
 </p>
 <h3 align="center"> -->
 
+## 🐍 My GitHub Contributions
+
+![GitHub Snake Light](https://raw.githubusercontent.com/pasindudeshan1100-stack/pasindudeshan1100-stack/output/github-snake.svg#gh-light-mode-only)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/pasindudeshan1100-stack/pasindudeshan1100-stack/output/github-snake-dark.svg#gh-dark-mode-only)
+
 ---
 ## ⚡ Fun Fact
 

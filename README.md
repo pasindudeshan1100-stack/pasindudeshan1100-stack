@@ -133,7 +133,7 @@ I enjoy creating user-friendly applications, solving programming problems, and e
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 
 <p align="center">
@@ -145,7 +145,7 @@ I enjoy creating user-friendly applications, solving programming problems, and e
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 
 <!-- <p align="center">

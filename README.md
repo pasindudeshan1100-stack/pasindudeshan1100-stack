@@ -171,7 +171,7 @@ I enjoy creating user-friendly applications, solving programming problems, and e
 
 ---
 
-##📊 Contribution Graph
+## 📊 Contribution Graph
 
  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindudeshan1100-stack&theme=react-dark&hide_border=true" />
